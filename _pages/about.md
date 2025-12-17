@@ -28,7 +28,7 @@ I developed a wearable ankle rehabilitation robot using a 3-RRR spherical parall
 
 _**Junlin Lyu**\*, Siyuan Zhang\*, Yufei Zhang\*, Sunil K. Agrawal_ (* Equal contribution) 
 
-[[Paper]](/images/RRR_ankles/ankle_paper.pdf)
+[[Paper]](/files/ankle_paper.pdf)
 <div style="clear:both;"></div>
 
 
