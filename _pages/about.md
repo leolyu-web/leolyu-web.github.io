@@ -21,10 +21,29 @@ My research revolves around **robotics** and **machine learning** with key inter
 
 ## 🌟 Research and Highlights
 
+## Eye, Robot: A Vision-Language-Action Model for Personalized, Realistic Gaze 
+![Rehab Robot](/images/eye_robot/eye_robot_gif.gif){: .align-right width="350px"}
+
+We proposed a novel **Vision-Language-Action (VLA)** architecture that decouples reasoning (VLM) from motor control to synthesize realistic humanoid gaze. I engineered an automated pipeline using Google MediaPipe to create a custom dataset of 52 blendshape parameters and trained a conditional Action Transformer to predict 11-DoF joint trajectories. The system was validated in a high-fidelity MuJoCo simulation and achieved real-time interaction (>60Hz) with human-like attention switching.
+
+
+_Paper Coming Soon !!!_
+<div style="clear:both;"></div>
+
+## Reverse Joint Quadruped Robot       
+![Rehab Robot](/images/RRR_ankles/ankle_gif.gif){: .align-right width="350px"}
+
+I designed and fabricated a bio-inspired, parallel-mechanism quadruped robot. To achieve stable locomotion, I built high-fidelity simulation environments in MuJoCo and PyBullet and implemented **Deep Reinforcement Learning (PPO)**. The optimized gait control policies enabled the robot to navigate uneven terrain and reach a maximum speed of 39.6 cm/s in the real world.
+
+_**Junlin Lyu**_
+
+[[Video Link]](/files/ankle_paper.pdf)
+<div style="clear:both;"></div>
+
 ## Design and Modeling of a 3-RRR Parallel Ankle Rehabilitation Robot 
 ![Rehab Robot](/images/RRR_ankles/ankle_gif.gif){: .align-right width="350px"}
 
-I developed a wearable ankle rehabilitation robot using a 3-RRR spherical parallel mechanism. Complete the engineering pipeline from mechanical design in SolidWorks, 3D-printed prototyping, Lagrangian dynamics modeling, to MATLAB simulation of compliance-modulated PID control.
+We developed a wearable ankle rehabilitation robot using a 3-RRR spherical parallel mechanism. We complete the engineering pipeline from mechanical design in SolidWorks, 3D-printed prototyping, Lagrangian dynamics modeling, to MATLAB simulation of compliance-modulated PID control.
 
 _**Junlin Lyu**\*, Siyuan Zhang\*, Yufei Zhang\*, Sunil K. Agrawal_ (* Equal contribution) 
 
@@ -34,12 +53,12 @@ _**Junlin Lyu**\*, Siyuan Zhang\*, Yufei Zhang\*, Sunil K. Agrawal_ (* Equal con
 
 ## 👨‍🏫 Teaching
 
-* **Teaching Assistant, Robotics Studio** (Columbia University, Fall 2025)
+**Teaching Assistant, Robotics Studio** (Columbia University, Fall 2025)
 
-  *Instructor: Prof. Hod Lipson*
-  * Mentored students through the full robot development lifecycle, from CAD design and 3D printing to achieving stable walking locomotion in physical prototypes.
-  * Developed **course materials and GitHub repositories**, creating technical tutorials on MuJoCo simulation and parameter optimization algorithms. [Mujoco Introduction link](https://github.com/leolyu-web/Robotics_studio_Mujoco_Intro)
-  * Instructed on Deep Reinforcement Learning, creating **presentation class materials and GitHub repositories** for training custom policies using Gymnasium and Stable-Baselines3 for their own robot. [Reinforcement Learning in Mujoco link](https://github.com/leolyu-web/Robotics_studio_RL_PPO)
+*Instructor: Prof. Hod Lipson*
+* Mentored students through the full robot development lifecycle, from CAD design and 3D printing to achieving stable walking locomotion in physical prototypes.
+* Developed course materials and GitHub repositories, creating technical tutorials on **MuJoCo simulation and parameter optimization algorithms**. [[Mujoco Introduction repositories]](https://github.com/leolyu-web/Robotics_studio_Mujoco_Intro)
+* Instructed on **Deep Reinforcement Learning**, creating presentation class materials and GitHub repositories for training custom policies using Gymnasium and Stable-Baselines3 for their own robot. [[Reinforcement Learning Mujoco repositories]](https://github.com/leolyu-web/Robotics_studio_RL_PPO)
 
 ## 🛠️ Technical Skills
 
