@@ -31,13 +31,13 @@ _Paper Coming Soon !!!_
 <div style="clear:both;"></div>
 
 ## Reverse Joint Quadruped Robot       
-![Rehab Robot](/images/RRR_ankles/ankle_gif.gif){: .align-right width="350px"}
+![Rehab Robot](/images/robo_studio/robo_stu_2_gif.gif){: .align-right width="350px"}
 
-I designed and fabricated a bio-inspired, parallel-mechanism quadruped robot. To achieve stable locomotion, I built high-fidelity simulation environments in MuJoCo and PyBullet and implemented **Deep Reinforcement Learning (PPO)**. The optimized gait control policies enabled the robot to navigate uneven terrain and reach a maximum speed of 39.6 cm/s in the real world.
+I designed and fabricated a bio-inspired, parallel-mechanism quadruped robot. To achieve stable locomotion, I built high-fidelity simulation environments in MuJoCo and PyBullet and implemented **Deep Reinforcement Learning (PPO)**. The optimized gait control policies enabled the robot to navigate uneven terrain and reach a maximum speed of 39.6 cm/s in the real world. 
 
 _**Junlin Lyu**_
 
-[[Video Link]](/files/ankle_paper.pdf)
+[[Youtube Video Link]](https://youtu.be/xk6qtAcfuZM)
 <div style="clear:both;"></div>
 
 ## Design and Modeling of a 3-RRR Parallel Ankle Rehabilitation Robot 
@@ -47,7 +47,7 @@ We developed a wearable ankle rehabilitation robot using a 3-RRR spherical paral
 
 _**Junlin Lyu**\*, Siyuan Zhang\*, Yufei Zhang\*, Sunil K. Agrawal_ (* Equal contribution) 
 
-[[Paper]](/files/ankle_paper.pdf)
+[[Paper]](https://drive.google.com/file/d/1T6IrTYDKOxq2Xz9ZaFiCH0laaQEtKPKN/view?usp=sharing)
 <div style="clear:both;"></div>
 
 
